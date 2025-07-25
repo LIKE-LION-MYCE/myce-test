@@ -1,2 +1,2 @@
 console.log('hello');
-console.log("테스트테스현민");
+console.log("테 스 트");
